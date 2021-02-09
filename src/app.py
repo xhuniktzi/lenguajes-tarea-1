@@ -7,7 +7,7 @@ Entrada: Un archivo 'txt' con lineas en este formato
 
 Salida: Por consola en este formato
     identificador = [ID]
-    lista de números = [Array List]
+    Datos = [Array List]
     funciones = [lista de funciones]
     salida de la función = [SALIDA BUSCAR | ORDENAR]
 '''
