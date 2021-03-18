@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 
 [dev-packages]
-autopep8 = "*"
 pylint = "*"
+yapf = "*"
 
 [requires]
 python_version = "3.9"
